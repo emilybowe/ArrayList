@@ -19,8 +19,8 @@ public class Iterate {
         colorList.add(purple);
         colorList.add(blue);
 
-        for(String string : colorList){
-            System.out.println(string);
+        for(String color : colorList){
+            System.out.println(color);
         }
     }
 }
